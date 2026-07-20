@@ -21,8 +21,6 @@ cd /path/to/dokuwiki
 git clone https://github.com/tomLin1998567/dokuwiki-plugin-nosidebar.git lib/plugins/nosidebar
 ```
 
-Or download the ZIP from the [releases page](https://github.com/tomLin1998567/dokuwiki-plugin-nosidebar/releases).
-
 Then enable the plugin via **Admin → Extensions**.
 
 ## Usage
